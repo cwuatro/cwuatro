@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cwuatro
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning something
+- 💞️ I’m looking to collaborate on my server
+- 📫 How to reach me, soon
